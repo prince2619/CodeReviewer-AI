@@ -1,6 +1,3 @@
-Based on your **raw notes**, folder structure, and full code, here's a **clean, professional, and fully enhanced `README.md`** file for your **Review-It (Code Reviewer)** project.
-
----
 
 ```markdown
 # 🤖 Review-It: AI Code Reviewer Web App
@@ -167,10 +164,8 @@ npm run dev
 ## 📬 Contact
 
 Made with 💻 by Prince Raj  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/prince-raj91/) or reach out via email.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/prince-raj91/) or reach out via [email](princeraj7173@gmail.com).
 
 ---
 
-```
 
-Let me know if you want this exported as a `.md` file or want to add badges, deployment instructions (like Vercel or Render), or an image/gif preview for README as well!
