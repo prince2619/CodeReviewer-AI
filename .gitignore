@@ -1,0 +1,30 @@
+# Node modules (avoid uploading heavy dependencies)
+**/node_modules/
+
+# Logs
+*.log
+
+# dotenv files (API keys, secrets)
+**/.env
+
+# System/IDE files
+.DS_Store
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+.vscode/
+
+# Build output
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# npm/yarn/lock files (optional, if you want cleaner repo)
+package-lock.json
+yarn.lock
+
+# Mac/Windows system files
+Thumbs.db
