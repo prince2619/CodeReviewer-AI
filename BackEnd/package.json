@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",        // For production (Render)
+    "dev": "nodemon server.js"        // For local dev
   },
   "keywords": [],
   "author": "",
@@ -15,5 +16,8 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
   }
 }
