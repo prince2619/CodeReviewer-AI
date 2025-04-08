@@ -1,8 +1,11 @@
 
-```markdown
-# 🤖 Review-It: AI Code Reviewer Web App
+## 🤖 CodeReviewer-AI
 
-> 🚀 A full-stack web application that leverages Google's Gemini Pro API to review code with precision and depth—just like a senior software engineer with 7+ years of experience.
+```markdown
+# 🤖 CodeReviewer-AI: AI Code Reviewer Web App
+
+> 🚀 A full-stack web application that leverages Google's Gemini Pro API to review code with
+     precision and depth—just like a senior software engineer with 7+ years of experience.
 
 ---
 
